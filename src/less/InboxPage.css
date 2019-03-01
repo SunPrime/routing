@@ -1,0 +1,10 @@
+.InboxPage {
+  display: flex;
+  background-color: #fff;
+}
+.InboxPage .messages {
+  flex: 1;
+}
+.InboxPage .message-container {
+  flex: 1;
+}

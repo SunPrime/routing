@@ -1,0 +1,8 @@
+.AboutPage {
+  color: rgba(0, 0, 0, 0.87);
+  padding: 16px;
+  box-sizing: border-box;
+}
+.AboutPage .title {
+  color: #FF4081;
+}
